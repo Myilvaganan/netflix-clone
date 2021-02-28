@@ -1,5 +1,17 @@
 # Getting Started with Create React App
 
+--------------------------------------------------
+DEPLOYED URL
+
+https://myilvaganan.github.io/netflix-clone/
+
+
+--------------------------------------------------------
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
